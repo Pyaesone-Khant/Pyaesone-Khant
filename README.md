@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Pyaesone Khant</h1>
+<h1>Hi there, I'm Pyaesone Khant</h1>
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 
 - 💬 Ask me about **React JS, Javascript, Laravel**
