@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Pyaesone Khant</h1>
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
+- 🌱 I’m currently learning **Node.js, Express.js, MongoDB , Laravel**
 
-- 💬 Ask me about **React JS, Javascript, Laravel**
+- 💬 Ask me about **React JS, Javascript**
 
 - 📫 How to reach me **pyaesonekhant4@gmail.com**
 
