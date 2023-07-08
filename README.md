@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **React JS, Javascript**
 
-- 📫 How to reach me **pyaesonekhant4@gmail.com**
+- 📫 How to reach me **pyaesonekhant.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
