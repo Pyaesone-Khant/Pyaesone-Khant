@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Pyaesone Khant</h1>
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB , Next JS, Laravel**
+- 🌱 I’m currently learning **Node.js, MongoDB, Next JS, Laravel**
 
 - 💬 Ask me about **React JS, Javascript**
 
