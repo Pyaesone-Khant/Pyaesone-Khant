@@ -2,9 +2,9 @@
 
 ## 💫 About Me:
 
-- 🌱 I’m currently learning **Nest JS, Next JS, AWS**
+- 🌱 I’m currently learning **Nest JS, AWS**
 - 🤝 I’m looking for help with **Nest JS, AWS**
-- 💬 Ask me about **React JS, Javascript, Node JS**
+- 💬 Ask me about **React JS, Javascript, Node JS, Next JS**
 - 📫 How to reach me **pyaesonekhant.dev@gmail.com**
 
   
